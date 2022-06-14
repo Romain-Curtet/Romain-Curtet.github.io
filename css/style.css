@@ -114,6 +114,7 @@ section .heading h2 {
 footer {
     background-color: #333;
     padding: 20px 0;
+    text-align: center;
 }
 
 footer h5 {
